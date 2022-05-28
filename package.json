@@ -1,0 +1,12 @@
+{
+  "name": "test-devops",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Non-Fungible-Labs/test-devops.git",
+  "author": "Stéphane Busso <stephane.busso@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "json-server": "^0.17.0"
+  }
+}
